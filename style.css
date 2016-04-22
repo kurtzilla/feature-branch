@@ -1,0 +1,22 @@
+
+
+header, footer, section, aside {
+    border: solid #444 1px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.clearfloat {
+    clear:both;
+}
+
+header, footer {
+    height:200px;
+}
+
+section, aside {
+    float:left;
+    height:250px;    width:50%;
+
+}
