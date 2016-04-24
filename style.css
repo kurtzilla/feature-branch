@@ -20,3 +20,9 @@ section, aside {
     height:250px;    width:50%;
 
 }
+
+#rob {
+    background: url('https://img1.etsystatic.com/102/0/7351167/il_340x270.932081763_c9el.jpg') no-repeat center/60% 100%;
+    /*background-position: -50% auto;*/
+    /*background-size:cover;*/
+}
